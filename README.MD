@@ -1,0 +1,2 @@
+## Project Introduction 
+This project is build to solve one of the real world problem. Customers save lot of their time and business owners get the customers online + manage the customers as well. Queue_management System.
