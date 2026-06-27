@@ -2,3 +2,7 @@
 
 .env
 infra/.env
+
+
+# ide settings
+.vscode/
