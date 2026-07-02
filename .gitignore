@@ -6,3 +6,5 @@ infra/.env
 
 # ide settings
 .vscode/
+
+**/target/
