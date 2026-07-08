@@ -66,7 +66,7 @@ public class User {
     @Column(name = "updated_at")
     private LocalDateTime updatedAt;
 
-    private enum Role {
+    public enum Role {
 
         BUSINESS_OWNER,
         CUSTOMER,
